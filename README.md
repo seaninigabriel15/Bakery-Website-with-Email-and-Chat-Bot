@@ -10,7 +10,7 @@ This is a system that promotes a Bakery located in Paranaque Metro Manila, Phili
 - :key: Admin:  _Can upload/edit/delete photos and description_ & _View Costumers Email and Registration_
 
 
-## :computer: Programming languages used
+## :computer: Programming Languages used:
 ### 🖥 Frontend 
 This is all pure HTML / CSS & PHP
 
