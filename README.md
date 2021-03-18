@@ -2,6 +2,8 @@
 
 This is a system that promotes a Bakery located in Paranaque Metro Manila, Philippines
 
+2nd Year College Project - 2017
+
 ## :bulb: Feature/s
 
 - :cake: Viewing of Products . Categories in Birthday Cakes, Wedding Cakes, Occational Cupcake etc.
